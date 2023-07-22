@@ -14,34 +14,32 @@
  *= require_self
  */
 
- 
- h1{
-     font-family: 'Roboto', sans-serif;
-     font-weight: 500;
-     text-decoration: none !important;
- }
- 
- p, h2, h2, h3, h4, h5 {
-     font-family: 'Roboto', sans-serif;
-     font-weight: 300;
-       text-decoration: none !important;
-      }      
+h1{
+   font-family: 'Roboto', sans-serif;
+   font-weight: 500;
+}
 
- #navlogo {
-    filter: brightness(0) invert(1);
-    opacity: 90%;
- }
+p, h2, h2, h3, h4, h5 {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+}      
 
- #BgNav {
-  background-color: #0e6876;
- }
+#navlogo {
+   filter: brightness(0) invert(1);
+   opacity: 90%;
+}
 
- #BodyColor {
+
+#BgNav {
+   background-color: #0e6876;
+}
+
+#BodyColor {
    background-color: #192B42;
-  }
+}
 
 
- #btnColor {
+#btnColor {
    color: aliceblue ;
- }
+}
 
